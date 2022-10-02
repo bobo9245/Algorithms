@@ -1,0 +1,8 @@
+7
+hello
+its
+me
+hesitate
+hex
+dec
+parseInt
