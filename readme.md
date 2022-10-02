@@ -11,7 +11,9 @@
   -[1978.소수 찾기](https://www.acmicpc.net/problem/1978)
   
   -[9012.괄호](https://www.acmicpc.net/problem/9012)
-
+  
+  -[2751.수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+  
 - 프로그래머스
 
   -[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
