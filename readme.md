@@ -7,6 +7,10 @@
   -[1094.막대기](https://www.acmicpc.net/problem/1094)
 
   -[1181.단어 정렬](https://www.acmicpc.net/problem/1094)
+  
+  -[1978.소수 찾기](https://www.acmicpc.net/problem/1978)
+  
+  -[9012.괄호](https://www.acmicpc.net/problem/9012)
 
 - 프로그래머스
 

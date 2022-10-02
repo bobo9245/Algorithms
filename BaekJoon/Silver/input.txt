@@ -1,8 +1,2 @@
-7
-hello
-its
-me
-hesitate
-hex
-dec
-parseInt
+4
+1 3 5 7
