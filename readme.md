@@ -4,20 +4,22 @@
 
 - 백준 (Silver 난이도 이상의 문제만 기록합니다)
 
-  -[1094.막대기](https://www.acmicpc.net/problem/1094)
+	-Silver
 
-  -[1181.단어 정렬](https://www.acmicpc.net/problem/1094)
-  
-  -[1978.소수 찾기](https://www.acmicpc.net/problem/1978)
-  
-  -[9012.괄호](https://www.acmicpc.net/problem/9012)
-  
-  -[2751.수 정렬하기 2](https://www.acmicpc.net/problem/2751)
-  
-  -[10814.나이순 정렬](https://www.acmicpc.net/problem/10814)
-  
-  -[11650.좌표 정렬하기](https://www.acmicpc.net/problem/11650)
-  
+	  -[1094.막대기](https://www.acmicpc.net/problem/1094)
+
+	  -[1181.단어 정렬](https://www.acmicpc.net/problem/1094)
+
+	  -[1978.소수 찾기](https://www.acmicpc.net/problem/1978)
+
+	  -[9012.괄호](https://www.acmicpc.net/problem/9012)
+
+	  -[2751.수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+
+	  -[10814.나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+	  -[11650.좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+
 - 프로그래머스
 
   -[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
