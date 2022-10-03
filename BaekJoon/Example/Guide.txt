@@ -1,3 +1,9 @@
+//여기는 알고리즘 가이드.
+//https://www.dongyeon1201.kr/ecb49ce0-6156-4fcb-8f46-6822ecf01273
+
+//문제 추천
+//https://covenant.tistory.com/224
+
 //여기서는 fs, readline 다 볼수 있음
 //https://pstudio411.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EB%B0%B1%EC%A4%80%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-nodejs-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0
 

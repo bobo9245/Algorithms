@@ -18,6 +18,7 @@
   
   -[11650.좌표 정렬하기](https://www.acmicpc.net/problem/11650)
   
+  -[11651.좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)
 - 프로그래머스
 
   -[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
@@ -26,7 +27,7 @@
   
   -[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
 
-  -[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+  -[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
   
   
   
