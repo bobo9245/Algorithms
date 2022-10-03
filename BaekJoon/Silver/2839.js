@@ -1,7 +1,7 @@
 //https://gurtn.tistory.com/55 이 페이지를 참고하였음.
 
 const fs = require('fs');
-let input = fs.readFileSync('input.txt').toString().trim()*1;
+let input = fs.readFileSync('/dev/stdin').toString().trim()*1;
 let count = 0;
 while(true){
 	if(input%5==0){
