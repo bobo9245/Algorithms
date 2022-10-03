@@ -10,4 +10,5 @@ arr.sort((a,b)=>{
 		return -1;
 })
 		 
-arr.forEach(x=>console.log(x));
+console.log(arr.join('\n'));
+//생각보다 console.log가 느리다!
