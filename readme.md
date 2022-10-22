@@ -4,7 +4,7 @@
 
 - 백준-Silver
 
-  -[1094.막대기](https://www.acmicpc.net/problem/1094)
+  -[1094.막대기](https://www.acmicpc.net/problem/1094) *
 
   -[1181.단어 정렬](https://www.acmicpc.net/problem/1094)
   
@@ -12,9 +12,9 @@
   
   -[9012.괄호](https://www.acmicpc.net/problem/9012)
   
-  -[2751.수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+  -[2751.수 정렬하기 2](https://www.acmicpc.net/problem/2751) *
   
-  -[10814.나이순 정렬](https://www.acmicpc.net/problem/10814)
+  -[10814.나이순 정렬](https://www.acmicpc.net/problem/10814) *
   
   -[11650.좌표 정렬하기](https://www.acmicpc.net/problem/11650)
   
