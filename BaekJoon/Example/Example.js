@@ -1,12 +1,11 @@
 const fs = require('fs');
-const file=process.platform==='linux'?'/dev/stdin' : './input.txt';
-let input = fs.readFileSync(file).toString().split('\n');
+const input = fs.readFileSync('input.txt').toString().split("\n");
 
-input = input[0];
-//input = input.split(' ').map((item)=>Number(item));
-
-solution(input[0],input[1]);
-
-var solution = (a,b) => {
-	console.log(a+b);
+const n = Number(input[0]);
+let arr = new Array(2);
+for(let i = 0;i<arr.length;i++){
+	arr[i] = input[i+1].trim().split(' ').map(e=>e*1);
 }
+
+console.log(n);
+console.log(arr);

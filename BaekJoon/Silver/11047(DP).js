@@ -1,5 +1,5 @@
 const fs = require('fs');
-let [N, ...nums] = fs.readFileSync('dev/stdin').toString().trim().split(/\s+/).map(Number);
+let [N, ...nums] = fs.readFileSync('input.txt').toString().trim().split(/\s+/).map(Number);
 
 let price = nums.shift();
 nums.sort((a, b) => b - a);
